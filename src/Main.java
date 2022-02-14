@@ -4,7 +4,7 @@ public class Main
     public static void main(String[] args)
     {
         String affiliation;
-        affiliation = "i";
+        affiliation = "o";
 
             if (affiliation.equalsIgnoreCase("R"))
                 {
